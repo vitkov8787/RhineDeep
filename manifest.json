@@ -1,6 +1,6 @@
 {
-    "name": "rhinedeep",
-    "short_name": "rhinedeep",
+    "name": "rhinepegel",
+    "short_name": "rhinepegel",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
